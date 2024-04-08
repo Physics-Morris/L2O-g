@@ -1,0 +1,18 @@
+aiohttp 
+fsspec 
+h5py
+torch
+torchvision
+pennylane 
+tqdm
+wandb
+scikit-learn
+matplotlib
+# Linux with GPU
+# for CUDA 11.1
+# pip install torch==1.10.0+cu111 torchvision==0.11.0+cu111 torchaudio==0.10.0 -f https://download.pytorch.org/whl/torch_stable.html
+# nvidia-cusparse-cu11 
+# nvidia-cublas-cu11 
+# nvidia-cuda-runtime-cu11 
+# custatevec_cu11
+# pennylane-lightning-gpu

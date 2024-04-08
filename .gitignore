@@ -1,0 +1,7 @@
+figures/
+datasets/
+_data/*
+.DS_Store
+__pycache__/
+Notebooks/
+paper/

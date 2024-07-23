@@ -188,10 +188,10 @@ Follow these steps:
 
 <h2 id="citation">🔖 Citation</h2>
 
-📚 If you find our paper useful, please kindly cite our paper :-)
+📚 If you find our work or this code to be useful in your own research, please kindly cite our paper :-)
 
 ```bibtex
-@misc{huang2024l2og,
+@misc{huang2024,
       title={L2O-$g^{\dagger}$: Learning to Optimize Parameterized Quantum Circuits with Fubini-Study Metric Tensor}, 
       author={Yu-Chao Huang and Hsi-Sheng Goan},
       year={2024},

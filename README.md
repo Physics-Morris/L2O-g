@@ -191,14 +191,11 @@ Follow these steps:
 📚 If you find our work or this code to be useful in your own research, please kindly cite our paper :-)
 
 ```bibtex
-@misc{huang2024,
-      title={L2O-$g^{\dagger}$: Learning to Optimize Parameterized Quantum Circuits with Fubini-Study Metric Tensor}, 
-      author={Yu-Chao Huang and Hsi-Sheng Goan},
-      year={2024},
-      eprint={2407.14761},
-      archivePrefix={arXiv},
-      primaryClass={quant-ph},
-      url={https://arxiv.org/abs/2407.14761}, 
+@article{huang2024l2o,
+  title={L2O-$ g\^{}$\{$$\backslash$dagger$\}$ $: Learning to Optimize Parameterized Quantum Circuits with Fubini-Study Metric Tensor},
+  author={Huang, Yu-Chao and Goan, Hsi-Sheng},
+  journal={arXiv preprint arXiv:2407.14761},
+  year={2024}
 }
 ```
 

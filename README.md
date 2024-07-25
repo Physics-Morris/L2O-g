@@ -22,7 +22,7 @@ Before the advent of fault-tolerant quantum computers, variational quantum algor
 ## Installation
 1. Create a new conda environment with Python 3.10:
     ```bash
-    conda create --name [name] --python=3.10
+    conda create --name [name] python=3.10
     ```
 
 2.  Activate the newly created environment:
